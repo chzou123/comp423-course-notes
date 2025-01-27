@@ -54,7 +54,7 @@ func main() {
 ```
 
 ## Run Subcommand
-By typing in the command below, it will compile the file and run the program
+By typing in the command below, it will compile the file and run the program.
 ```bash
 go run main.go
 ```
